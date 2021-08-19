@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    background-color: white;
+}
+
+/* Start Reset */
+
+/* End Reset */
+
+/* 
+px- unitate fixa. 1px = 1LED din monitor
+% - 1$ din parinte direct
+vh - 1vh este 1% din viewport height 
+vw - 1vw este 1% din viewport width
+em - 1em = font-size in pixeli a celui mai apropiat
+parinte care are font-size definit
+rem - 1rem = font-size definit pe elemeentul
+html
+
+margin, padding, width, height NU functioneaza
+pe elemente inline
+*/
