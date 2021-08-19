@@ -19,4 +19,7 @@ em - 1em = font-size in pixeli a celui mai apropiat
 parinte care are font-size definit
 rem - 1rem = font-size definit pe elemeentul
 html
+
+margin, padding, width, height NU functioneaza
+pe elemente inline
 */
